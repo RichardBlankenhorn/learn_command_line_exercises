@@ -1,2 +1,3 @@
-# learn_command_line_exercises
-learning the command line
+# learn command line
+
+Homework for learning command line Davinci Coders
