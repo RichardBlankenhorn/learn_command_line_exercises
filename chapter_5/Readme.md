@@ -4,7 +4,7 @@
 cd to the joe directory with one command
 
 > On the command line I can type the following:
-> cd ~/workspace/davinci_coders_t1_2016/homework/learn_the_command_line/chapter_5/temp/stuff/things/frank/joe/
+> cd ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_5/temp/stuff/things/frank/joe/
 
 cd back to temp with one command
 
@@ -39,18 +39,18 @@ directory with spaces?
 Can you cd in to the temp directory?
 
 > The first step would be to access the chapter_5 directory.
-> Type cd ~/workspace/davinci_coders_t1_2016/homework/learn_the_command_line/chapter_5
+> Type cd ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_5
 > I can then type cd temp
 > I could have also added /temp to the end of the first cd command
 
 Why don't we go in to the temp directory?
 
 > If the temp directory in question is in chapter_5 I can type the below command.
-> cd ~/workspace/davinci_coders_t1_2016/homework/learn_the_command_line/chapter_5/temp/
+> cd ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_5/temp/
 
 Can you go to the slash temp directory?
 
-> I would need to enter cd ~/workspace/davinci_coders_t1_2016/homework/learn_the_command_line/chapter_5/temp/
+> I would need to enter cd ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_5/temp/
 
 Can you go to the slash temp slash log directory
 
