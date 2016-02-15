@@ -1,5 +1,5 @@
 
-# ls -lr command
+# Do more question: ls -lr command
 
 > The ls -lr command will provide me with a long list of files in reverse order.
 > For each file, I can see permissions, number of hardlinks, file owner, file group, file size, modification time and
@@ -28,7 +28,7 @@ What files are in your home directory?
 What's in slash temp?
 
 > If I am within the chapter_6 directory, I can type cd tmp and hit enter.
-> Otherwise, I need to enter cd ~/workspace/davinci_coders_t1_2016/homework/learn_the_command_line/chapter_6/tmp/
+> Otherwise, I need to enter cd ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_6/tmp/
 > Once in this directory, I can enter ls to obtain a list of files in the slash temp directory
 
 
