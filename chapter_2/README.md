@@ -23,10 +23,10 @@ What directory did you run that command in?
 > If I just ran a command, this will let me know what directory I was in when the command was ran.
 
 How to find the Readme.md file by using Finder?
-> First step, click on Finder. On the left side, click on richardblankenhorn (home icon on the left)
+> First step, click on Finder. On the left side, click on richardblankenhorn. A home icon is on the left.
 > Second, click on the Workspace file. 
-> Third, click on the davinci_coders_t1_2016
-> Fourth, click on homework
-> Fifth, click on learn_command_line_exercises
-> Sixth, click on chapter_2
-> Seventh, click on Readme.md
+> Third, click on the davinci_coders_t1_2016.
+> Fourth, click on homework.
+> Fifth, click on learn_command_line_exercises.
+> Sixth, click on chapter_2.
+> Seventh, click on Readme.md.
