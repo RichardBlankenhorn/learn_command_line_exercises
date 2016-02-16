@@ -50,7 +50,7 @@ Why don't we go in to the temp directory?
 
 Can you go to the slash temp directory?
 
-> I would need to enter cd ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_5/temp/
+> To go in to the slash temp directory, I can type cd /tmp and hit enter.
 
 Can you go to the slash temp slash log directory
 
