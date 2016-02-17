@@ -1,7 +1,7 @@
 
 # Do more question: ls -lr command
 
-> The ls -lr command will provide me with a long list of files in reverse order.
+> The ls -lr command will provide me with a long list of files and directories recursively.
 > For each file, I can see permissions, number of hardlinks, file owner, file group, file size, modification time and
 > the filename.
 
@@ -11,12 +11,13 @@ What's in the tmp directory?
 
 > I can type cd ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_6/tmp/
 > This will take me to the tmp directory
-> I can then type ls to obtain a list of files in that directory. I will see the stuff file listed
+> I can then type ls to obtain a list of files in that directory. I will see the stuff directory is listed within tmp
 
 Can you show me what files are listed in that directory?
 
 > If I am in a given directory or in this case the tmp directory, I can type ls to obtain a list of files.
-> In the tmp directory, the stuff file is listed
+> In the tmp directory, the stuff directory is listed. 
+> The full path is ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/tmp/stuff/things/things/frank/joe/alex/john/
 
 What files are in your home directory?
 
@@ -27,8 +28,7 @@ What files are in your home directory?
 
 What's in slash temp?
 
-> If I am within the chapter_6 directory, I can type cd tmp and hit enter.
-> Otherwise, I need to enter cd ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_6/tmp/
-> Once in this directory, I can enter ls to obtain a list of files in the slash temp directory
+> The slash tmp directory is a directory that contains temporary files. These files can be used to temporarily store data.
+> Tmp files are typically deleted or removed upon reboot.
 
 
