@@ -3,7 +3,8 @@
 
 > The ls -lr command will provide me with a long list of files and directories recursively.
 > For each file, I can see permissions, number of hardlinks, file owner, file group, file size, modification time and
-> the filename.
+> the directory name. Typing this command while on the learn_command_line_exercises directory will show me the chapter directories
+> and the original Readme.md file.
 
 # English Questions
 
