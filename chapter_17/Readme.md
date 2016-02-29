@@ -10,4 +10,4 @@ Can you show me all the files in slash temp slash foo?
 What log files are in your log directory?
 
 > I can first cd ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_17.
-> From here, I can cd log and then type find . -print to show files in the log directory.
+> From here, I can cd log and then type find *.log to show log files in the log directory.
